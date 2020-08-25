@@ -3,5 +3,5 @@ using namespace std;
 
 
 void Liam() {
-	cout << "Liam Knight";
+	cout << "Liam Knight\n";
 }
